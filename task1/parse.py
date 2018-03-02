@@ -27,7 +27,7 @@ for a in articles:
     url = base_url + a.get('href')
     title = a.text
     article = html.fromstring(requests.get(url).content)
-    abstract = article.xpath(u"//b[contains(text(), 'Аннотация')]/following-sibling::text()")[0].strip()
+    abstract = ''.join(article.xpath(u"//b[contains(text(), 'Аннотация')]/following-sibling::text()[not(preceding-sibling::b[contains(text(), 'Ключевые')])]")).strip()
     keywords = article.xpath(u"//b[contains(text(), 'Ключевые')]/following-sibling::i")[0].text[:-1].split(', ')
     result['articles'].append({
         'url': url,
