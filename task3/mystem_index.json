@@ -1,0 +1,2180 @@
+{
+  "матрица,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "изучение": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "рассматриваться": {
+    "count": 5, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9204", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "точка": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "нормальный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "получать": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "кривая": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "и": {
+    "count": 16, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210", 
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9208", 
+      "http://www.mathnet.ru/rus/ivm9203", 
+      "http://www.mathnet.ru/rus/ivm9205", 
+      "http://www.mathnet.ru/rus/ivm9204", 
+      "http://www.mathnet.ru/rus/ivm9207", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "картина": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "система": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210", 
+      "http://www.mathnet.ru/rus/ivm9207", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "плоскость": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "разрешимость": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "фокас–итс–китаев.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "результат": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "пример": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "задавать": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "случай": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208"
+    ]
+  }, 
+  "так,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "приближение.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "частность,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "связывать": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "грассманов": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "дробь.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "параметр": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "некоторый": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "следующий": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "использовать": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "некоторые": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "что": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203", 
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "цепной": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "плоскость.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "достигаться": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "достаточно": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "первый": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "репер,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "коэффициент": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "локальный": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203", 
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "условие": {
+    "count": 5, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205", 
+      "http://www.mathnet.ru/rus/ivm9204", 
+      "http://www.mathnet.ru/rus/ivm9207", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "находить": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "изменяться": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "верхний": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "о": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "продолжать": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "удовлетворять": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "статистический": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "то,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "функционал": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208"
+    ]
+  }, 
+  "форма": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "классификация": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "последовательность": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "показывать": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "доказывать": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "шестимерный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "канонический": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "медленно": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "различный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "симметрия": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208"
+    ]
+  }, 
+  "кривой": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210", 
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "критерий": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "лаплас": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "погружение": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "ограничивать": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "на": {
+    "count": 8, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210", 
+      "http://www.mathnet.ru/rus/ivm9205", 
+      "http://www.mathnet.ru/rus/ivm9204", 
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "приводить": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "абсолютный": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "иррациональный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "включать": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "распределение": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "инвариантность": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "инъективный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "по": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "двумерный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "смешанный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "это": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "индекс": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "тогда": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "статистически": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "счет": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "самосопряженный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "неспрямлять": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "один": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "область,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "лаврентьев–бицадзе,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "оператор": {
+    "count": 5, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "остаточный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "голоморфный": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "инвариантный": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "интервал": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "почти": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "(в": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "график": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "при": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "грассман": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "дифференциальный": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210", 
+      "http://www.mathnet.ru/rus/ivm9204", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "отклонение,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "интегральный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "отклонение.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "поверхность.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "объект": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "число": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "дробный": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "гильбертов": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "проинтегрировать": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "вычислять": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "из": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9207", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "слабый": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "использоваться": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "изучать": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "высокий": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "эйлер–лагранж.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208"
+    ]
+  }, 
+  "два": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "образ.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "тип": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "показывать,": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203", 
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "часть,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "число,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "их": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "эллиптико-гиперболический": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "для": {
+    "count": 13, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9203", 
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9205", 
+      "http://www.mathnet.ru/rus/ivm9204", 
+      "http://www.mathnet.ru/rus/ivm9207", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "взаимосвязь": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208", 
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "метод": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "картан": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "об": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208"
+    ]
+  }, 
+  "возможность": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "доля": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "равенство": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "расстояние": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "ранее": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "ноль": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204", 
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "система.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "определение": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "состоять": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "множество": {
+    "count": 5, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "правый": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "матрица": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "коши": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "последовательность,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "исследовать": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208", 
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "“очищать”": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "возмущенный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "от": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204", 
+      "http://www.mathnet.ru/rus/ivm9207", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "исследоваться": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "нахождение": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "частный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "средний": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "отрезок": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "существование": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203", 
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9205", 
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "такой": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "структурный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "логарифмический": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "граничный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "вводиться": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "образ": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "многообразие": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "быть": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210", 
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "за": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "подгруппа": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "находиться": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "равностепенный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "угодно": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "диофантовый": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "теория": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "секционный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "носитель": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "поиск": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "элемент": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "проблема": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "функция:": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "окружность)": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "частота": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "значение": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "а": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "себя": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203", 
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "сколь": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "штурм–лиувилля": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "следствие": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "неполный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "кратный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "другой.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "знаменатель": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "обратный": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "задача": {
+    "count": 5, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9205", 
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "включение.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "соответствовать": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208"
+    ]
+  }, 
+  "слабо": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "эль": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "разложение": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "представлять": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "асимптотически": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "построить": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "3": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "определенный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "описание": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "функция,": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "функция.": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9207", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "максимум": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "эквивалентный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "заданный": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9204", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "риман": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "отделенность": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "продолжимое.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "они": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "преобразование": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "свойство": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "решение.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "между": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208"
+    ]
+  }, 
+  "отклонение": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "экстензор.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "экстензор,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "относительный": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "асимптотический": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "относительно": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "полуизотропный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "устанавливать": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208", 
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "можно": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "деривационный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "кривая.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "предлагать": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "аналогичный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208"
+    ]
+  }, 
+  "локсодрома.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "стратифицировать": {
+    "count": 6, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "устойчивость": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "доказываться": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "задача.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "задача,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "неограниченность": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "стратов": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "характеристика": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "также": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208", 
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9207", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "который": {
+    "count": 5, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9207", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "пространство": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "четырехмерный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "связь": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "степень.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "расширение": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "малый": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "спектр": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "с": {
+    "count": 14, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9208", 
+      "http://www.mathnet.ru/rus/ivm9203", 
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9205", 
+      "http://www.mathnet.ru/rus/ivm9204", 
+      "http://www.mathnet.ru/rus/ivm9207", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "граница": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "доказательство": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210", 
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "управляемый": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "линейный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "непрерывный": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "формула,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "сумма": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "установленный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "управлять": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "когда": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "утверждение": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "внешний": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "единственность.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "переменная.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "совпадать,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "основной": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "неизотропный": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "оператор.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "уравнение": {
+    "count": 7, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208", 
+      "http://www.mathnet.ru/rus/ivm9210", 
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "периодический": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "(не": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "член": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "исследование": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "решение": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205", 
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "область": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "ограниченный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "ряд,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "постоянный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "ее": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "стягиваемость": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "заключаться": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "понятие": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "репер": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "известный": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "вопрос": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208"
+    ]
+  }, 
+  "поверхность": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "нижний": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "квази-": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208"
+    ]
+  }, 
+  "собственный": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204", 
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "стационарный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "каждый": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "псевдоевклидов": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "вид": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210", 
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "затем": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "категория,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "категория.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "чтобы": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "пусть": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "подмногообразие": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "зависеть": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "категория": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "индикатриса": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "несчетный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "полуограниченный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "внутренний": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "профильтровывать": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "эйлер–лагранж": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208"
+    ]
+  }, 
+  "локально": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "данный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "данные": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "экстензор": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "в": {
+    "count": 18, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210", 
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9208", 
+      "http://www.mathnet.ru/rus/ivm9203", 
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9205", 
+      "http://www.mathnet.ru/rus/ivm9204", 
+      "http://www.mathnet.ru/rus/ivm9207", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "помощь": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9204", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "рост": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "квадрат": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "формула": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "часть": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "точка.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "множество.": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "ряд": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "множество,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "вводить": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "расти": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "теорема": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9210", 
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "величина": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "множитель": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "интервал,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "интервал.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211"
+    ]
+  }, 
+  "семейство": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "попадание": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "давать": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "геометрия": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "функция": {
+    "count": 6, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "до": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "подвижный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "изучаться": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205", 
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "окрестность": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "кривизна": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "случай,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "пространство,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "условие.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "условие,": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "конформный": {
+    "count": 3, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "работа": {
+    "count": 5, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9208", 
+      "http://www.mathnet.ru/rus/ivm9211", 
+      "http://www.mathnet.ru/rus/ivm9205"
+    ]
+  }, 
+  "кривизна.": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209"
+    ]
+  }, 
+  "нулевой)": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "окрестностный": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203"
+    ]
+  }, 
+  "произведение": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9207"
+    ]
+  }, 
+  "как": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "новый": {
+    "count": 1, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9210"
+    ]
+  }, 
+  "являться": {
+    "count": 5, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9203", 
+      "http://www.mathnet.ru/rus/ivm9205", 
+      "http://www.mathnet.ru/rus/ivm9210", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "этот": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205", 
+      "http://www.mathnet.ru/rus/ivm9206"
+    ]
+  }, 
+  "пространство.": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9209", 
+      "http://www.mathnet.ru/rus/ivm9203", 
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "возмущение": {
+    "count": 2, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }, 
+  "краевой": {
+    "count": 4, 
+    "docs": [
+      "http://www.mathnet.ru/rus/ivm9205", 
+      "http://www.mathnet.ru/rus/ivm9204"
+    ]
+  }
+}
