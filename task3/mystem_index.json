@@ -599,12 +599,6 @@
       "http://www.mathnet.ru/rus/ivm9206"
     ]
   }, 
-  "теория": {
-    "count": 1, 
-    "docs": [
-      "http://www.mathnet.ru/rus/ivm9211"
-    ]
-  }, 
   "изучать": {
     "count": 1, 
     "docs": [
@@ -1101,9 +1095,10 @@
     ]
   }, 
   "устанавливать": {
-    "count": 2, 
+    "count": 3, 
     "docs": [
       "http://www.mathnet.ru/rus/ivm9203", 
+      "http://www.mathnet.ru/rus/ivm9207", 
       "http://www.mathnet.ru/rus/ivm9208"
     ]
   }, 
@@ -1851,10 +1846,10 @@
       "http://www.mathnet.ru/rus/ivm9203"
     ]
   }, 
-  "установленный": {
+  "теория": {
     "count": 1, 
     "docs": [
-      "http://www.mathnet.ru/rus/ivm9207"
+      "http://www.mathnet.ru/rus/ivm9211"
     ]
   }, 
   "статистически": {

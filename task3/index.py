@@ -2,7 +2,6 @@
 
 import io, json
 from sys import argv
-from string import punctuation
 
 # fetch required index type from command line arguments
 if len(argv) != 2 or argv[1] not in ('porter', 'mystem'):
@@ -14,16 +13,10 @@ index = {}
 
 articles = json.load(open('../task2/result.json'))['articles']
 
-def remove_punctuation(s):
-    return ''.join(c for c in s if c not in punctuation)
-
 # iterate over all articles & construct index
 for a in articles:
-    # remove punctuation from title & abstract
-    title = remove_punctuation(a['title'][type])
-    abstract = remove_punctuation(a['abstract'][type])
     # construct doc by joining terms in title & abstract
-    doc = title.split() + abstract.split()
+    doc = a['title'][type].split() + a['abstract'][type].split()
     doc_id = a['url']
     # iterate over terms and update index step by step
     for term in doc:
