@@ -17,7 +17,7 @@ index = json.load(open('../task3/' + type + '_index.json'))
 Searches the intersection & exclusion of corresponding docs
 """
 def search(index, terms):
-    include = set()
+    include = []
     exclude = set()
     for t in terms:
         exl = t.startswith('-')
@@ -26,8 +26,8 @@ def search(index, terms):
         if exl:
             exclude |= set(index[t[1:]]['docs'])
         else:
-            include |= set(index[t]['docs'])
-    return list(include - exclude)
+            include.append(set(index[t]['docs']))
+    return list(set.intersection(*include) - exclude)
 
 docs = search(index, terms)
 for doc in docs:
