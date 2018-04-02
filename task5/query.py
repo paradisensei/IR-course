@@ -26,7 +26,10 @@ def search(index, terms):
     exclude = set()
     for t in terms:
         exl = t.startswith('-')
-        if exl and t[1:] not in index or not exl and t not in index:
+        if exl and t[1:] not in index:
+            continue
+        if not exl and t not in index:
+            include.append(set())
             continue
         if exl:
             exclude |= set(index[t[1:]]['docs'])
@@ -54,5 +57,17 @@ for doc_id in doc_ids:
     doc_score[doc_id] = score
 
 doc_score = sorted(doc_score.items(), key=lambda x: x[1], reverse=True)
+
+query = ' '.join(terms)
+result = {
+    query: []
+}
+
 for doc, score in doc_score:
-    print doc, score
+    result[query].append({
+        doc: score
+    })
+
+# save results to JSON file
+with io.open('result1.json', 'w', encoding='utf-8') as out:
+    out.write(json.dumps(result, indent=2, ensure_ascii=False))
