@@ -6,6 +6,8 @@ class LSI:
         self.words = sorted(set.union(*map(set, self.docs)))
         self.query = np.array([1 if w in query else 0 for w in self.words])
         self.term_doc_matrix = self._build_term_doc_matrix()
+        # save A matrix to file
+        np.savetxt('A.txt', self.term_doc_matrix, fmt='%d')
 
     def process(self):
         u_k, s_k, v_k = self._svd_with_dimensionality_reduction()
@@ -14,8 +16,7 @@ class LSI:
         d = self.term_doc_matrix.T.dot(u_k).dot(s_k)
 
         res = np.apply_along_axis(lambda row: self._sim(q, row), axis=1, arr=d)
-        print res
-        return np.argsort(-res) + 1
+        return res, np.argsort(-res) + 1
 
     def _build_term_doc_matrix(self):
         model = np.zeros((len(self.words), len(self.docs)), dtype=int)

@@ -16,5 +16,14 @@ docs = [' '.join([a['title'][type], a['abstract'][type]]) for a in articles]
 
 # rank
 lsi = LSI(docs, query)
-ranking = lsi.process()
-print ranking
+cos, rank = lsi.process()
+
+result = {
+    query: {
+        'rank': map(lambda r: { r: cos[r - 1] }, rank)
+    }
+}
+
+# save results to JSON file
+with io.open('result1.json', 'w', encoding='utf-8') as out:
+    out.write(json.dumps(result, indent=2, ensure_ascii=False))
